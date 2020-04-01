@@ -1,3 +1,5 @@
 '''
 Napraviti listu imena
 '''
+
+listaImena=[]
