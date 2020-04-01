@@ -5,4 +5,4 @@ Napraviti listu imena
 listaImena=[]
 
 izmenila sam nesto
-napisi nesto
+evo i ja sam
