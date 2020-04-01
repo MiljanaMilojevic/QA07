@@ -2,7 +2,7 @@
 Napraviti listu imena
 '''
 
-listaImena=[]
+listaImena=["sfsfasfsf"]
 
 izmenila sam nesto
 evo i ja sam
